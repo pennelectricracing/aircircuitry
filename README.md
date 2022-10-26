@@ -1,4 +1,6 @@
 # aircircuitry
+![1186801633791678550](https://user-images.githubusercontent.com/14287399/197921484-f6ce370c-88e8-47e5-bf24-1b4f0ed5f148.png)
+
 DESCRIPTION
 
 This board (sponsored by JLCPCB) will be used to protect our battery pack and high voltage contacts.
