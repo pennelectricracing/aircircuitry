@@ -1,0 +1,10 @@
+Comment,Description,Designator,Quantity,Man. Part Number
+
+"EEEFT1E102UP","CAP ALUM 1000UF 20% 25V SMD","C1, C2, C3, C4","4",""
+"MBR0520L","Schottky Diode, 20V, 0.2A, 2-pin SOD-123, RoHS, Tape and Reel","D1, D5","2",""
+"5A 50V Schottky Diode","5A 50V Schottky Diode SMC","D2, D3, D4, D6, D7, D8","6",""
+"RES 0603 12K 1%","Resistor Surface Mount, 12K Ohms, 0603 Footprint, 1% Tolerance 0.1W","R1","1",""
+"RES 0603 20K 1%","Resistor Surface Mount, 20K Ohms, 0603 Footprint, 1% Tolerance 0.1W","R2","1",""
+"120 Ohms","Resistor Surface Mount, 120 Ohms, 2512 Footprint, 1% Tolerance 1W","R3, R4","2",""
+"LTC2965CDD#PBF","Supervisor Open Drain or Open Collector 1 Channel 8-DFN (3x3)","U1","1",""
+"NCP45525IMNTWG-H","Power Switch/Driver 1:1 N-Channel 6A 8-DFN (2x2)","U2, U3","2",""
