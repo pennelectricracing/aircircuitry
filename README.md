@@ -16,5 +16,7 @@ EV200HAANA: The smallest, lightest weight, lowest cost sealed contactor in the i
 Features:
 
 Hermetically sealed – intrinsically safe, operates in explosive/harsh environments with no oxidation or contamination of coils or contacts, including long periods of nonoperation.
+
 1.7W hold power @ 12VDC
+
 Auxiliary contact for easy monitoring of power contact position. 
